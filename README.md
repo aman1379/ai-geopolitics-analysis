@@ -1,5 +1,5 @@
 # ai-geopolitics-analysis
-**# AI in Geopolitics
+AI in Geopolitics
 
 ## What I'm Exploring
 How AI is being used in surveillance, intelligence, and geopolitical decision-making.
