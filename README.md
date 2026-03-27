@@ -27,5 +27,7 @@ Key observations:
 
 Even with relatively high accuracy, these errors persist.
 
+**This simulation is a simplified representation and not based on real-world classified data**
+
 ### Implication
 In high-stakes environments like surveillance and military decision-making, small error rates can lead to significant real-world consequences, including escalation of conflict or failure in threat detection.
